@@ -42,9 +42,3 @@ function meuEscopo() {
 }
 meuEscopo();
 
-
-
-var peso = 97;
-var altura = 1.80;
-
-console.log(peso/(altura*altura))
